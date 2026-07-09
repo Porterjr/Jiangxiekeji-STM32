@@ -1,0 +1,19 @@
+# Keil 编译垃圾
+DebugConfig/
+Listings/
+Objects/
+*.uvguix.*
+*.uvoptx
+*.dep
+*.bak
+*.lnp
+*.htm
+
+# 编译输出
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
