@@ -12,7 +12,7 @@
 | [Ch04-OLED](Ch04-OLED/) | ✅ | [笔记](Ch04-OLED/README.md) | 1个实验 |
 | [Ch05-EXTI外部中断](Ch05-EXTI外部中断/) | ✅ | [笔记](Ch05-EXTI外部中断/README.md) | 2个实验 |
 | [Ch06-TIM定时器](Ch06-TIM定时器/) | ✅ | [笔记](Ch06-TIM定时器/README.md) | 8个实验 |
-| Ch07-ADC模数转换 | ⬜ | | |
+| [Ch07-ADC模数转换](Ch07-ADC模数转换/) | ✅ | [笔记](Ch07-ADC模数转换/README.md) | 2个实验 |
 | Ch08-DMA直接存储器存取 | ⬜ | | |
 | Ch09-USART串口通信 | ⬜ | | |
 | Ch10-I2C通信 & MPU6050 | ⬜ | | |
