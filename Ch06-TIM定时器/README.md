@@ -59,6 +59,7 @@ TIM_GetFlagStatus();       // 获取标志位
 TIM_ClearFlag();           // 清除标志位
 TIM_GetITStatus();         // 获取中断标志位
 TIM_ClearITPendingBit();   // 清除中断标志位
+```
 定时器中断代码思路
 RCC开启时钟 → 选择时基单元的时钟源 → 配置时基单元(TIM_TimeBaseInit)
     ↓
@@ -207,7 +208,7 @@ TIM_EncoderInterfaceConfig(TIMx, 编码器模式, 通道1极性, 通道2极性);
 
 ## 6-8 编码器接口测速
 
-### 实验项目
+## 实验项目
 - 6-1 定时器定时中断
 - 6-2 定时器外部时钟
 - 6-3 PWM驱动LED呼吸灯

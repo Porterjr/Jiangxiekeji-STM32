@@ -55,15 +55,16 @@ GPIO_SetBits();                    // 把指定端口设置为高电平
 GPIO_ResetBits();                  // 把指定端口设置为低电平
 GPIO_WriteBit(GPIOx, GPIO_Pin, BitVal);  // 根据第三个参数的值设置指定端口
 GPIO_Write(GPIOx, PortVal);        // 同时对 16 个端口进行写入操作
-3-3 GPIO输入
-3-4 按键控制LED & 光敏传感器控制蜂鸣器
-实验项目
+```
+## 3-3 GPIO输入
+## 3-4 按键控制LED & 光敏传感器控制蜂鸣器
+## 实验项目
 3-1 LED闪烁
 3-2 LED流水灯
 3-3 蜂鸣器
 3-4 按键控制LED
 3-5 光敏传感器控制蜂鸣器
-实验记录
+### 实验记录
 - 📷 [3-4按键控制LED实验GIF](notes/3-4按键控制LED实验.gif)
 
 

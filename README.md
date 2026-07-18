@@ -15,10 +15,11 @@
 | [Ch07-ADC模数转换](Ch07-ADC模数转换/) | ✅ | [笔记](Ch07-ADC模数转换/README.md) | 2个实验 |
 | [Ch08-DMA直接存储器存取](Ch08-DMA直接存储器存取/) | ✅ | [笔记](Ch08-DMA直接存储器存取/README.md) | 2个实验 |
 | [Ch09-USART串口通信](Ch09-USART串口通信/) | ✅ | [笔记](Ch09-USART串口通信/README.md) | 4个实验 |
-| Ch10-I2C通信 & MPU6050 | ⬜ | | |
+| [Ch10-I2C通信 & MPU6050](Ch10-I2C通信 & MPU6050/) | ✅ | [笔记](Ch10-I2C通信 & MPU6050/README.md) | 2个实验 |
 | Ch11-SPI通信 & W25Q64 | ⬜ | | |
 | Ch12-RTC实时时钟 | ⬜ | | |
 | Ch13-PWR电源控制 | ⬜ | | |
+| [Ch14-WDG看门狗](Ch14-WDG看门狗/) | ✅ | [笔记](Ch14-WDG看门狗/README.md) | 2个实验 |
 | Ch14-WDG看门狗 | ⬜ | | |
 | Ch15-FLASH闪存 | ⬜ | | |
 

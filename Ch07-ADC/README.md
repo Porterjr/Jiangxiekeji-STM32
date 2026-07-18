@@ -72,6 +72,7 @@ ADC_AnalogWatchdogCmd();              // 是否启动模拟看门狗
 ADC_AnalogWatchdogThresholdsConfig(); // 配置高、低阈值
 ADC_AnalogWatchdogSingleChannelConfig(); // 配置看门狗的通道
 ADC_TempSensorVrefintCmd();           // 开启内部的两个通道（温度传感器、内部参考电压控制）
+```
 ADC 基本结构
 GPIO(16) ──┐
 温度 ──────┼──→ [AD转换器] ──→ [AD数据寄存器] ──→ 中断输出控制 ──→ NVIC
@@ -84,7 +85,7 @@ VREFINT(4)─┘    规则组(x1)      规则组结果 x1
                 
 触发控制：软件 / 硬件（定时器、外部中断引脚）
 
-### 实验项目
+## 实验项目
 - 7-1 AD单通道
 - 7-2 AD多通道
 

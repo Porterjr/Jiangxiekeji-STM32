@@ -44,7 +44,8 @@ DMA_GetITStatus();           // 获取中断状态
 DMA_ClearITPendingBit();     // 清除中断挂起位
 ```
 ## 8-2 DMA+AD多通道
-### 实验项目
+
+## 实验项目
 8-1 DMA数据转运
 8-2 DMA+AD多通道
 ### 踩坑记录 ⚠️
